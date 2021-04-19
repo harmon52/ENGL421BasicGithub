@@ -1,0 +1,7 @@
+Example example example example example example example example
+
+This text is all for example
+
+aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kUXc0dzlXZ1hjUQ== has a fun surprise
+
+Soon you will understand the power of Git!
